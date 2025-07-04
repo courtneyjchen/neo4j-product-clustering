@@ -16,4 +16,4 @@ By modeling both the digital and physical aspects of the retail experience, this
 
 __Contributors:__ Hong Hu, Kevin Pradjinata
 
-__Source:__ https://docs.yugabyte.com/preview/sample-data/northwind/
+__Dataset:__ https://docs.yugabyte.com/preview/sample-data/northwind/
