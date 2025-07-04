@@ -11,3 +11,5 @@ These insights enabled two core applications:
   🛒 __Recommender System:__ We developed a dynamic shopping cart recommender, which suggests the top two most frequently co-purchased products based on the current cart contents. This recommendation engine is designed to increase average order value by targeting natural cross-sell opportunities in real-time.
 
 By modeling both the digital and physical aspects of the retail experience, this project highlights the practical value of community detection and network-based machine learning in driving operational efficiency and enhancing customer engagement in the specialty foods sector.
+
+Collaborators: Hong Hu, Kevin Pradjinata
