@@ -8,9 +8,9 @@ We implemented a suite of graph algorithms from the Neo4j Graph Data Science (GD
 
 These insights enabled two core applications:
 
-  📦 __Warehouse Optimization:__ By identifying product communities, we proposed an optimized shelf layout to minimize traversal time during batch picking. This layout considers physical storage constraints (i.e., keeping broader product types like dairy together) while keeping high-co-purchase items in close proximity, resulting in faster order fulfillment.
+- __Warehouse Optimization:__ By identifying product communities, we proposed an optimized shelf layout to minimize traversal time during batch picking. This layout considers physical storage constraints (i.e., keeping broader product types like dairy together) while keeping high-co-purchase items in close proximity, resulting in faster order fulfillment.
 
-  🛒 __Recommender System:__ We developed a dynamic shopping cart recommender, which suggests the top two most frequently co-purchased products based on the current cart contents. This recommendation engine is designed to increase average order value by targeting natural cross-sell opportunities in real-time.
+- __Recommender System:__ We developed a dynamic shopping cart recommender, which suggests the top two most frequently co-purchased products based on the current cart contents. This recommendation engine is designed to increase average order value by targeting natural cross-sell opportunities in real-time.
 
 By modeling both the digital and physical aspects of the retail experience, this project highlights the practical value of community detection and network-based machine learning in driving operational efficiency and enhancing customer engagement in the specialty foods sector.
 
