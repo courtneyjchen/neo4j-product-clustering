@@ -14,5 +14,5 @@ These insights enabled two core applications:
 
 By modeling both the digital and physical aspects of the retail experience, this project highlights the practical value of community detection and network-based machine learning in driving operational efficiency and enhancing customer engagement in the specialty foods sector.
 
-Contributors: Hong Hu, Kevin Pradjinata
-Source: 
+__Contributors:__ Hong Hu, Kevin Pradjinata
+__Source:__ https://docs.yugabyte.com/preview/sample-data/northwind/
