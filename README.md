@@ -14,9 +14,9 @@ These insights enabled two core applications:
 
 By modeling both the digital and physical aspects of the retail experience, this project highlights the practical value of community detection and network-based algorithms in driving operational efficiency and enhancing customer engagement in the specialty foods sector.
 
+## Final Deliverable
+📌 For the complete narrative and final results, please see [Northwind Traders Proposal.pdf](https://github.com/courtneyjchen/neo4j-product-clustering/blob/main/Northwind%20Traders%20Proposal.pdf). This document showcases our approach and synthesizes the analysis into a clear, compelling format designed to inform decision-making.
+
 __Contributors:__ Hong Hu, Kevin Pradjinata
 
 __Dataset:__ https://docs.yugabyte.com/preview/sample-data/northwind/
-
-## Final Deliverable
-📌 For the complete narrative and final results, please see [Northwind Traders Proposal.pdf](https://github.com/courtneyjchen/neo4j-product-clustering/blob/main/Northwind%20Traders%20Proposal.pdf). This document showcases our approach and synthesizes the analysis into a clear, compelling format designed to inform decision-making.
