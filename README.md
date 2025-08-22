@@ -17,6 +17,8 @@ By modeling both the digital and physical aspects of the retail experience, this
 ## Final Deliverable
 📌 For the complete narrative and final results, please see [Northwind Traders Proposal.pdf](https://github.com/courtneyjchen/neo4j-product-clustering/blob/main/Northwind%20Traders%20Proposal.pdf). This document highlights our storytelling approach and brings together the analysis in a clear, compelling format.
 
+
+
 __Contributors:__ Hong Hu, Kevin Pradjinata
 
 __Dataset:__ https://docs.yugabyte.com/preview/sample-data/northwind/
